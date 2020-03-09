@@ -1,3 +1,3 @@
 # cmark-gfm-spm
 
-A description of this package.
+Clone of cmark-gfm with support of SPM.
